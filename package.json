@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fuchen/hexo-ipynb.git"
+    "url": "git+https://github.com/seii-saintway/hexo-ipynb.git"
   },
   "keywords": [
     "hexo",
@@ -18,9 +18,9 @@
   "author": "Fu Chen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fuchen/hexo-ipynb/issues"
+    "url": "https://github.com/seii-saintway/hexo-ipynb/issues"
   },
-  "homepage": "https://github.com/fuchen/hexo-ipynb#readme",
+  "homepage": "https://github.com/seii-saintway/hexo-ipynb#readme",
   "dependencies": {
     "co": "^4.6.0",
     "co-exec": "^1.1.0",

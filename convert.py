@@ -16,7 +16,7 @@ class MyExporter(HTMLExporter):
         """
         We want to use the new template we ship with our library.
         """
-        return 'html'
+        return 'hexo'
 
 def main(ipynb_file):
     exporter = MyExporter()
